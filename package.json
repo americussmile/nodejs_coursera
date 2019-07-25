@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_cousera",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/americussmile/nodejs_coursera.git"
+  },
+  "author": "dngochuynh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/americussmile/nodejs_coursera/issues"
+  },
+  "homepage": "https://github.com/americussmile/nodejs_coursera#readme"
+}
