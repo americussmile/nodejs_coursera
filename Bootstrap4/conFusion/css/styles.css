@@ -9,7 +9,7 @@
     min-height: 300px;
 }
 .footer{
-    background-color: #d1c4e9;
+    background-color: #9575CD;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -30,5 +30,13 @@ body{
 }
 .navbar-dark{
     background-color: #512DA8;
-    
+
+}
+.row-reserve{
+    margin: 10px 10px 50px 10px;
+    padding: 0px auto;
+    border: 1px ridge;
+;}
+.header-reserve{
+    background: #FFD700;
 }
